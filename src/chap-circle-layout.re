@@ -1,3 +1,3 @@
 = サークル配置図
 
-//indepimage[gishohaku9-layout][][scale=0.8]
+//indepimage[layout][][scale=0.8]
