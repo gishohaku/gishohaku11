@@ -43,12 +43,7 @@
 
 //embed{
 
-\contributor{Cucu}{@CuCu\_0305}{images/contributors/cucu-icon.jpg}{
-Webエンジニアとしての仕事の傍ら、アニメ風のイラストを描いています。最近はデザインにも挑戦中で、本の表紙をイラスト込みでデザインできます。お仕事のご相談やご質問がありましたらお気軽にどうぞ。
-}
-
-\contributor{のりこ}{@noriko\_ro}{images/contributors/noriko.png}{
-ねこだいすきなんちゃってクラウド系エンジニア。実際はただの雑用係。推し活で忙しい。
+\contributor{moi(音引屋)}{@onbikiya}{images/contributors/moi.png}{
 }
 
 

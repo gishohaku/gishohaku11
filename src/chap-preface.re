@@ -1,16 +1,21 @@
 = まえがき
 
-第10回技術書同人誌博覧会（技書博）にお越しくださり、ありがとうございます。
+第十一回技術書同人誌博覧会（技書博）にお越しくださり、ありがとうございます。
 
 今日はぜひたくさん本を手に取り、新しい技術に出会い、めいっぱい満喫し、いろんなものを持ち帰ってくださいね。
 楽しかったよっていう感想が、私たちにとって何よりの幸せです。
 
 
-技書博はついに10回を迎えることができました。
-私たちの活動にご賛助・ご協賛いただいたサポーター企業のみなさま、サークルのみなさま、一般参加されたみなさま、そして共に今日のよい日を作り上げたコアスタッフや当日スタッフのみなさまに、改めて深くお礼を申し上げます。
+技書博はついに11回目を迎えることができました。
+これまでも、これからも、このイベントを開催できるのは、
+私たちの活動にご賛助・ご協賛いただいたサポーター企業のみなさま、サークルのみなさま、
+一般参加されたみなさま、そして共に今日のよい日を作り上げたコアスタッフや当日スタッフのみなさまのおかげです。
+改めて深くお礼を申し上げます。
 
 コロナ禍で何度か開催中止を余儀なくされたり、これまでの運営には困難が続きました。
-そんな中でも皆さまに支えられてこのイベントを5年間も続けられたことをすごく嬉しく思いますし、これからも続けられるよう改めて気を引き締めていきます。
+2025年1月も、インフルエンザが猛威を振るっています。
+そんな中でも皆さまに支えられてこのイベントを5年間も続けられたことをすごく嬉しく思いますし、
+これからも続けられるよう改めて気を引き締めていきます。
 
 //blankline
 
@@ -19,7 +24,7 @@
 
 //flushright{
 
-2024年5月12日
+2025年1月25日
 
 技術書同人誌博覧会
 
@@ -54,16 +59,18 @@ https://blog.gishohaku.dev/entry/2023/09/04/131252
     \begin{figure}[htbp]
         \begin{minipage}[b]{0.45\linewidth}
             \centering
-            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku10-enquete-visitor.png}
+            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku11-enquete-visitor.png}
             \caption{一般参加者向けアンケート}
         \end{minipage}
         \begin{minipage}[b]{0.45\linewidth}
             \centering
-            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku10-enquete-circle.png}
+            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku11-enquete-circle.png}
             \caption{サークル向けアンケート}
         \end{minipage}
     \end{figure}
 //}
+
+
 
 ==[notoc] 免責事項
 

@@ -11,8 +11,6 @@ CHAPS:
     - chap-info-stage.re
     - chap-info-award.re
     - chap-info-sponsors.re
-    - chap-taruzake.re
-    - chap-interview.re
 
   - chap-title-circle.re:
     - chap-circle-list.re
@@ -20,7 +18,6 @@ CHAPS:
     - chap-circle-appeals.re
 
   - chap-title-sponsor.re:
-    - chap-sponsor-sakura.re
     - chap-sponsor-systemi.re
 
   - chap-title-staff.re:

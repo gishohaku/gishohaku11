@@ -4,15 +4,15 @@
 
 印刷所のご協力あってのイベントです。ありがとうございます。
 
-//pagebreak
 
 //embed{
     \begin{center}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/chap-printing/00-shimaya.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/chap-printing/01-eikou.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/chap-printing/02-poplus.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/chap-printing/03-walk.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/chap-printing/04-K9.pdf}\vspace{10pt}
-        \includegraphics[width=0.69\paperwidth,keepaspectratio,page=1]{images/chap-printing/05-neko.pdf}
+        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/0_shimaya.pdf}\vspace{10pt}
+        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/1_eiko.pdf}\vspace{10pt}
+        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/2_poplus.pdf}\vspace{10pt}
+        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/3_walk.pdf}\vspace{10pt}
+        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/4_k9.pdf}\vspace{10pt}
+        \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/5_neko.pdf}
+		\includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/6_days.pdf}
     \end{center}
 //}
