@@ -5,6 +5,30 @@
 印刷所のご協力あってのイベントです。ありがとうございます。
 
 
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
+　
+
 //embed{
     \begin{center}
         \includegraphics[width=0.65\paperwidth,keepaspectratio,page=1]{images/chap-printing/0_shimaya.pdf}\vspace{10pt}

@@ -28,9 +28,6 @@
 　
 
 //embed{
-\contributor{しもおかゆうき}{@moshimoshi\_yuki}{images/contributors/shimooka.jpg}{
-しもおかです！今回もたくさんの本が生まれたそうで、みなさんの本楽しみにしています！ 読書のおともは、ぜひドーナツでお願いします！みなさん一緒に楽しみましょう
-}
 
 \contributor{うーたん}{@uutan1108}{images/contributors/utan_400x400.jpg}{
 今年は技術同人誌も書こうと思っています！頑張ります！！
@@ -53,5 +50,36 @@
 アイデアを練ったり、設計のためのメモや図解を作る時はもっぱら手書きで描くことが多いです。
 }
 
+//}
+
+== 当日スタッフ
+//embed{
+
+\contributor{こうの}{@hk\_it7}{images/contributors/kouno.jpg}{
+パワープレイでなんとかするタイプのエンジニア。東葛.dev主催。
+}
+
+\contributor{ぽにょ}{@ponyoxa}{images/contributors/ponyoxa.png}{
+バックエンドエンジニア・キーボードが好き
+}
+//}
+
+　
+
+　
+
+　
+
+　
+
+
+//embed{
+\contributor{fkuMnk}{@fku\_mnk}{images/contributors/EF8Q4kXF_400x400.jpg}{
+fkuMnkです
+}
+
+\contributor{yuusukesan18}{@yuusukesan18}{images/contributors/yuusukesan18.png}{
+仕事は、フロントからバックエンド、インフラと守備範囲が広いフルスタックエンジニアという名の何でも屋です。たまに、コミュニティ活動をしています。
+}
 //}
 
