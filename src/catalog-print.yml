@@ -19,6 +19,7 @@ CHAPS:
 
   - chap-title-sponsor.re:
     - chap-sponsor-systemi.re
+    - chap-sponsor-socym.re
 
   - chap-title-staff.re:
     - chap-staff-circle-definition.re

@@ -55,16 +55,15 @@ https://blog.gishohaku.dev/entry/2023/09/04/131252
 次回開催の参考にさせていただくため、アンケート回答にご協力ください。
 
 //embed{
-    \vspace{40pt}
     \begin{figure}[htbp]
         \begin{minipage}[b]{0.45\linewidth}
             \centering
-            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku11-enquete-visitor.png}
+            \includegraphics[keepaspectratio, scale=0.3]{images/chap-preface/gishohaku11-enquete-visitor.png}
             \caption{一般参加者向けアンケート}
         \end{minipage}
         \begin{minipage}[b]{0.45\linewidth}
             \centering
-            \includegraphics[keepaspectratio, scale=0.5]{images/chap-preface/gishohaku11-enquete-circle.png}
+            \includegraphics[keepaspectratio, scale=0.3]{images/chap-preface/gishohaku11-enquete-circle.png}
             \caption{サークル向けアンケート}
         \end{minipage}
     \end{figure}
